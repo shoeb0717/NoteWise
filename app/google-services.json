@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139075299858",
+    "firebase_url": "https://my-notes-5a845-default-rtdb.firebaseio.com",
+    "project_id": "my-notes-5a845",
+    "storage_bucket": "my-notes-5a845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139075299858:android:416265f278605136f706cb",
+        "android_client_info": {
+          "package_name": "com.learngram.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139075299858-3i4u7koco0qet62rbohfngmee376pogu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learngram.mynotes",
+            "certificate_hash": "959a95858fbf2d8cbfbbca72091ddb94ef17eba3"
+          }
+        },
+        {
+          "client_id": "139075299858-0li3jmvlrtkl9rfilon6t2bldbpip5ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7_ZxeelYPOPRrIDmXxAyTGtPo-skvlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139075299858-0li3jmvlrtkl9rfilon6t2bldbpip5ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

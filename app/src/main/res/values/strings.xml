@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NoteWise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">139075299858-0li3jmvlrtkl9rfilon6t2bldbpip5ff.apps.googleusercontent.com</string>
+    <string name="add_note_here_title">Add your note here</string>
+    <string name="enter_your_title">Enter your title</string>
+    <string name="enter_your_description">Enter your description</string>
+    <string name="save_your_note">Save your note</string>
+    <string name="your_all_notes">Your all notes</string>
+    <string name="open_all_notes">Open all notes</string>
+    <string name="create_new_note">Create new note</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete account</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="do_you_forgot_password">Do you forgot your password ?</string>
+    <string name="do_you_have_account">Do not have an account ?</string>
+    <string name="register">Register</string>
+    <string name="other_sign_in_options">Other sign in options</string>
+    <string name="login_using_phone_number">Login using phone number</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="please_provide_email_toget_password_reset" tools:ignore="TypographyEllipsis">Please provide your email id to get an email to reset your password...</string>
+    <string name="your_email_id">Your Email Id</string>
+    <string name="send_pass_reset_link">Send password reset link</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="already_have_account">Already have an account ?</string>
+    <string name="verify_your_otp">Verify your OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_and_login">Verify and login</string>
+    <string name="textview">TextView</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
